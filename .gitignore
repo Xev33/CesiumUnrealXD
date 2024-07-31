@@ -83,3 +83,4 @@ DerivedDataCache/*
 # Cache files for the editor to use
 /CesiumReplication_XD/DerivedDataCache/*
 CesiumReplication_XD/Saved/AutoScreenshot.png
+CesiumReplication_XD/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
