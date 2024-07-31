@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "x:\\mes documents\\projetperso\\cesiumunrealxd\\cesiumreplication_xd\\intermediate\\build\\win64\\unrealeditor\\inc\\cesiumreplication_xd\\uht\\cesiumreplication_xd.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "x:\\mes documents\\projetperso\\cesiumunrealxd\\cesiumreplication_xd\\intermediate\\build\\win64\\x64\\cesiumreplication_xdeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "x:\\mes documents\\projetperso\\cesiumunrealxd\\cesiumreplication_xd\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cesiumreplication_xd\\definitions.cesiumreplication_xd.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
