@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LandscapeCombinator.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Xavier DAVID\Documents\Unreal Projects\LandscapeCombinator\Intermediate\Build\Win64\x64\LandscapeCombinatorEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Xavier DAVID\Documents\Unreal Projects\LandscapeCombinator\Intermediate\Build\Win64\x64\UnrealEditor\Development\LandscapeCombinator\LandscapeCombinator.init.gen.cpp.obj"
+"C:\Users\Xavier DAVID\Documents\Unreal Projects\LandscapeCombinator\Intermediate\Build\Win64\x64\UnrealEditor\Development\LandscapeCombinator\LandscapeCombinatorCharacter.gen.cpp.obj"
+"C:\Users\Xavier DAVID\Documents\Unreal Projects\LandscapeCombinator\Intermediate\Build\Win64\x64\UnrealEditor\Development\LandscapeCombinator\LandscapeCombinatorGameMode.gen.cpp.obj"
+"C:\Users\Xavier DAVID\Documents\Unreal Projects\LandscapeCombinator\Intermediate\Build\Win64\x64\UnrealEditor\Development\LandscapeCombinator\LandscapeCombinator.cpp.obj"
+"C:\Users\Xavier DAVID\Documents\Unreal Projects\LandscapeCombinator\Intermediate\Build\Win64\x64\UnrealEditor\Development\LandscapeCombinator\LandscapeCombinatorCharacter.cpp.obj"
+"C:\Users\Xavier DAVID\Documents\Unreal Projects\LandscapeCombinator\Intermediate\Build\Win64\x64\UnrealEditor\Development\LandscapeCombinator\LandscapeCombinatorGameMode.cpp.obj"
+"C:\Users\Xavier DAVID\Documents\Unreal Projects\LandscapeCombinator\Intermediate\Build\Win64\x64\UnrealEditor\Development\LandscapeCombinator\Default.rc2.res"
+/OUT:"C:\Users\Xavier DAVID\Documents\Unreal Projects\LandscapeCombinator\Intermediate\Build\Win64\x64\UnrealEditor\Development\LandscapeCombinator\UnrealEditor-LandscapeCombinator.lib"
